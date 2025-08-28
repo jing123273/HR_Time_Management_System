@@ -1,1 +1,2 @@
-# HR_Time_Management_System
+# 實習生簽到/值日生輪值系統
+# 僅前端
